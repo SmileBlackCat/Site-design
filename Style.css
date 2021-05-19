@@ -1,6 +1,3 @@
-html {
-}
-
 .pict {
   background: #000;
   color: #fff;
@@ -11,10 +8,6 @@ html {
    margin: 0;
  }
 
-.text_figma {
   font-size: 40px;
   margin: 0;
-}
-
-.site {
 }
